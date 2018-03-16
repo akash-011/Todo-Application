@@ -1,0 +1,6 @@
+#APP
+flask
+flask-restplus
+flask-sqlalchemy
+#Lint
+flake8
